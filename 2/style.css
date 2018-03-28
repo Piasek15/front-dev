@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    background-image: url(images/Layer%206.png);
+    width: 1920px;
+    height: 1280px;
+}
